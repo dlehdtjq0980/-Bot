@@ -1,1 +1,1 @@
-worker: python 멍멍이 Bot.p
+worker: python 멍멍이 Bot.py
